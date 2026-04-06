@@ -1,6 +1,6 @@
 # VentureFlow Intelligence: AI-Driven Startup Success Predictor
 
-**Master of Science in Data Science | Wentworth Institute of Technology**
+**Master of Science in Data Science | Wentworth Institute of Technology** **|**
 **Author:** Annanahmed Shaikh
 
 ---
