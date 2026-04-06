@@ -34,10 +34,10 @@ Mandatory academic deliverables:
 
 ---
 
-## 📡 Live Data Integration
+##  Live Data Integration
 The system is built to handle live market intelligence. The `Code/scripts/fetch_live_data.py` module automatically integrates 2024-2025 startups into the Star Schema database using **NewsAPI** and **The Companies API**.
 
-## 🚀 Quick Start
+##  Quick Start
 To launch the dashboard locally:
 ```bash
 pip install -r Code/requirements.txt
@@ -45,4 +45,4 @@ streamlit run Code/app/dashboard.py
 ```
 
 ---
-**ALHAMDULILLAH — Final submission complete.**
+
