@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+requests
+python-dotenv
+sentence-transformers
+scikit-learn
+plotly
+matplotlib
+seaborn
+streamlit-lottie
