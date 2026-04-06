@@ -2,12 +2,11 @@
 
 **Master of Science in Data Science | Wentworth Institute of Technology**
 **Author:** Annanahmed Shaikh
-**Objective:** Final Thesis Defense Submission (A++ Quality)
 
 ---
 
 ## 📁 Repository Structure
-To ensure full transparency and ease of grading, this project is organized into four main directories as per the standard layout:
+This project is organized into four main directories as per the standard layout:
 
 ### 1. [Code](./Code)
 This directory contains the complete technical implementation:
