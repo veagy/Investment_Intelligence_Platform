@@ -12,7 +12,7 @@
 | **University** | Wentworth Institute of Technology |
 | **Course** | DATA-6900: Capstone Project |
 | **Semester** | Spring 2026 |
-| **Live Dashboard** | [Streamlit Cloud](https://data-6950-capstone-project.streamlit.app/) |
+| **Live Dashboard** | [Streamlit Cloud](https://ventureflow-ai.streamlit.app/#venture-flow-intelligence) |
 
 ---
 
